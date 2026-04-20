@@ -82,12 +82,4 @@ Try the app against any of these free, well-structured review datasets:
 After downloading, upload the CSV directly in the app and pick the review-text column.
 
 ---
-
-## 📄 Resume Bullets (Big 4 / Consulting Style)
-
-- **Architected an AI-powered customer-feedback analytics platform** using Anthropic Claude and Streamlit, processing 5,000+ unstructured reviews in under 3 minutes and surfacing the top 5 operational risks per deployment in a McKinsey-style brief.
-- **Engineered a batch-processing pipeline with exponential-backoff retry logic** that reduced API failure rates by ~95%, enabling reliable enterprise-scale analysis and preventing single-batch failures from compromising the end deliverable.
-- **Translated unstructured customer sentiment into a 2×2 priority matrix and ranked recommendations**, quantifying business impact on a 1–10 scale and directly linking each insight to percentage-level evidence and verbatim customer quotes.
-- **Designed an interactive executive dashboard** (KPI cards, sentiment donut, issue bar chart, trend line) consumable by non-technical stakeholders, cutting the time from raw review CSV to board-ready insight from days to minutes.
-
 ---
